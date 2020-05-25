@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   #%L
-  javaee8-essentials-archetype
+  jakartaee-essentials-archetype
   %%
-  Copyright (C) 2019 Adam Bien
+  Copyright (C) 2020 Adam Bien
   %%
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
