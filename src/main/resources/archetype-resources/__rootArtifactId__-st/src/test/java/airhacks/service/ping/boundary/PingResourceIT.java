@@ -18,7 +18,7 @@ public class PingResourceIT {
 
     @BeforeEach
     public void init() {
-        URI uri = URI.create("http://localhost:8080/duke-st/resources/");
+        URI uri = URI.create("http://localhost:8080/${artifactId}/resources/");
         this.client = RestClientBuilder.
                 newBuilder().
                 baseUri(uri).
