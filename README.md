@@ -3,8 +3,6 @@ A quickstart maven archetype for creating greenfield Jakarta EE and MicroProfile
 
 # Usage
 
-Copy and paste, replace ```PROJECT_NAME``` and ```GROUP_ID```:
-
 ```
 mvn archetype:generate -DarchetypeGroupId=com.airhacks -DarchetypeArtifactId=jakartaee-essentials-archetype -DarchetypeVersion=0.0.7
 ```
